@@ -10,7 +10,7 @@ Unity Indie Developer creating reusable tools and systems that speed up game dev
 ## 🎯 Published Projects
 
 ### 🎵 Audio Manager
-A fully-featured Audio Manager to control music, SFX, and audio events in your game. [🔗 Asset Store](https://assetstore.unity.com/packages/slug/329253)  
+Audio Manager to control music, SFX, and audio events in your game. [🔗 Asset Store](https://assetstore.unity.com/packages/slug/329253)  
 ![Unity Badge](https://img.shields.io/badge/Unity-Compatible-blue?logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-Scripted-green)
 
 ---
@@ -19,7 +19,7 @@ A fully-featured Audio Manager to control music, SFX, and audio events in your g
 
 ### 🛠 Game Managers
 A set of universal tools to simplify game development:
-
+- **Audio Manager** - Audio Manager to control music, SFX, and audio events in your game.
 - **Transition Manager** – smooth scene transitions with custom animations.
 - **GameState Manager** – manage game pause, resume, and state tracking.
 - **Save Manager** – universal save system for game data.
