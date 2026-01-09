@@ -1,16 +1,25 @@
-## Hi there 👋
+![Banner](https://via.placeholder.com/1280x300?text=Krayzborn+Unity+Developer)
 
-<!--
-**Krayzborn/Krayzborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Krayzborn
 
-Here are some ideas to get you started:
+Unity Indie Developer creating reusable tools and systems that speed up game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Game Managers
+A set of universal tools to simplify game development:
+- **Audio Manager** – control music, SFX, and audio events.
+- **Transition Manager** – smooth scene transitions with custom animations.
+- **GameState Manager** – manage game pause, resume, and state tracking.
+- **Save Manager** – universal save system for game data.
+
+### Universal UI Button
+A flexible button that integrates the functionality of all managers, showing or hiding fields depending on the mode.
+
+## Demo / Asset Store
+[Check out Game Managers on Unity Asset Store](https://assetstore.unity.com/packages/tools/game-managers-xxxx)  
+*Replace `xxxx` with your actual Asset Store package ID.*
+
+## Contact
+- Email: your@email.com
+- GitHub: [Krayzborn](https://github.com/Krayzborn)
