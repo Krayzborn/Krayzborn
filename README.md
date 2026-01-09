@@ -1,12 +1,9 @@
 # Krayzborn
-
 Unity Indie Developer creating reusable tools and systems that speed up game development.
-
 ## Published Projects
 ### Audio Manager
 A fully-featured Audio Manager to control music, SFX, and audio events in your game.  
 [Check it out on Unity Asset Store](https://assetstore.unity.com/packages/slug/329253)  
-
 
 ## Upcoming Projects
 ### Game Managers
