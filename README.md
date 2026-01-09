@@ -1,4 +1,5 @@
 # Krayzborn
+
 Unity Indie Developer creating reusable tools and systems that speed up game development.  
 
 **Skills & Tools:**  
@@ -9,8 +10,7 @@ Unity Indie Developer creating reusable tools and systems that speed up game dev
 ## 🎯 Published Projects
 
 ### 🎵 Audio Manager
-A fully-featured Audio Manager to control music, SFX, and audio events in your game.  
-[🔗 Check it out on Unity Asset Store](https://assetstore.unity.com/packages/slug/329253)  
+A fully-featured Audio Manager to control music, SFX, and audio events in your game. [🔗 Asset Store](https://assetstore.unity.com/packages/slug/329253)  
 ![Unity Badge](https://img.shields.io/badge/Unity-Compatible-blue?logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-Scripted-green)
 
 ---
